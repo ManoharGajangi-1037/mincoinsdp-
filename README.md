@@ -1,3 +1,6 @@
 # mincoinsdp-
 
-Hello Manohar
+int main(){
+
+
+}
